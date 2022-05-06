@@ -1,0 +1,3 @@
+﻿  biggestFunction.cpp
+C:\Users\092834\OneDrive - UP Education\Desktop\biggestFunction\biggestFunction.cpp(13,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  biggestFunction.vcxproj -> C:\Users\092834\OneDrive - UP Education\Desktop\biggestFunction\x64\Debug\biggestFunction.exe
